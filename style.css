@@ -1,0 +1,51 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+#head{
+    height: 45px;
+    width: 300px;
+}
+img{
+    height: 350px;
+}
+#perfect{
+    height: 90px;
+    font-weight: 90px;
+}
+li a{
+    font-weight: 700; 
+
+}
+h1{
+    color: #363958;
+    font-weight: 700;
+    font-size: 70px;
+}
+h2{
+    color: #363958;
+    font-weight: 700;
+    font-size: 40px;
+}
+h3{
+    color: #363958;
+    font-weight: 700;
+    font-size: 25px;
+}
+.button{
+    background-color: #3745C7;
+    border: none;
+    border-radius: 10px;
+    
+}
+#icon{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+#price{
+    font-size: 35px;
+    color: #FA804C;
+    font-weight: 800;
+}
+
+
